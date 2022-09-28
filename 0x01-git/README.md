@@ -1,1 +1,1 @@
-Updated verion of "Readme file of my git tasks"
+Updated version of "Readme file of my git tasks"
